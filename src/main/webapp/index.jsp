@@ -12,7 +12,7 @@
 
 <HR>
 
-<a href="C:\Users\Akhil Anurag\Downloads">Link Name</a>
+<a href="https://img.buzzfeed.com/buzzfeed-static/static/2018-01/29/16/asset/buzzfeed-prod-fastlane-03/sub-buzz-2668-1517262264-1.jpg">Link Name</a>
 
 is a link to another nifty site
 
