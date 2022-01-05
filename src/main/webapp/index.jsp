@@ -2,7 +2,7 @@
 
 <HEAD>
 
-<TITLE>Your Title Here</TITLE>
+<TITLE>My name is "RGV"</TITLE>
 
 </HEAD>
 
@@ -12,23 +12,17 @@
 
 <HR>
 
-<a href="https://img.buzzfeed.com/buzzfeed-static/static/2018-01/29/16/asset/buzzfeed-prod-fastlane-03/sub-buzz-2668-1517262264-1.jpg">Magic Link</a>
+<a href="https://img.buzzfeed.com/buzzfeed-static/static/2018-01/29/16/asset/buzzfeed-prod-fastlane-03/sub-buzz-2668-1517262264-1.jpg">MAGIC LINK</a>
 
-is a link to another nifty site
+(Adults only)
 
-<H1>This is a Header</H1>
+<H1>RAMUISM</H1>
 
-<H2>This is a Medium Header</H2>
+<H2>This is basically what i have achieved</H2>
 
-Send me mail at <a href="mailto:support@yourcompany.com">
 
-support@yourcompany.com</a>.
 
-<P> This is a new paragraph!
 
-<P> <B>This is a new paragraph!</B>
-
-<BR> <B><I>This is a new sentence without a paragraph break, in bold italics.</I></B>
 
 <HR>
 
