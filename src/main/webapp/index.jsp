@@ -2,11 +2,11 @@
 
 <HEAD>
 
-<TITLE  style="background-color:DodgerBlue;">My Name is RGV</TITLE>
+	<TITLE  style="background-color:Black";>My Name is RGV</TITLE>
 
 </HEAD>
 
-<BODY style="background-color:#1c87c9;">
+<BODY style="background-color:Black;">
 
 <CENTER><IMG SRC="http://chaibisket.com/wp-content/uploads/2017/05/RGVmemo5.jpg" ALIGN="BOTTOM"> </CENTER>
 
