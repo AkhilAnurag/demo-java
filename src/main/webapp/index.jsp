@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>fuck my world: src/main/webapp/index.jsp</h2>
+<h2>fuck You</h2>
 </body>
 </html>
