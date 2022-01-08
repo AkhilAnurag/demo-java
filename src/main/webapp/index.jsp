@@ -18,7 +18,7 @@ Adults Only
 
 <H1 style="background-color:#ff6347;">Ramuism</H1>
 
-<H2 style="background-color:rgb(255, 99, 71);>This is what i have accomplished</H2>
+<H2 style="background-color:rgb(255, 99, 71);>This is what i am</H2>
 
 <HR>
 
