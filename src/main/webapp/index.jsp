@@ -18,7 +18,7 @@ Adults Only
 
 <H1 style="background-color:#ff6347;">Ramuism</H1>
 
-<H2 style="background-color:white;">This is what i am</H2>
+<H2 style="background-color:white;">Click on magic link to view my achievements</H2>
 
 <HR>
 
