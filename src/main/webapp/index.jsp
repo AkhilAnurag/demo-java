@@ -2,7 +2,7 @@
 
 <HEAD>
 
-	<TITLE  style="background-color:Black";>My Name is RGV</TITLE>
+	<TITLE  style="background-color:white";>My Name is RGV</TITLE>
 
 </HEAD>
 
@@ -12,13 +12,13 @@
 
 <HR>
 
-<a href="https://img.buzzfeed.com/buzzfeed-static/static/2018-01/29/16/asset/buzzfeed-prod-fastlane-03/sub-buzz-2668-1517262264-1.jpg">Magic Link</a>
+<a style="background-color:white" href="https://img.buzzfeed.com/buzzfeed-static/static/2018-01/29/16/asset/buzzfeed-prod-fastlane-03/sub-buzz-2668-1517262264-1.jpg">Magic Link</a>
 
 Adults Only
 
 <H1 style="background-color:#ff6347;">Ramuism</H1>
 
-<H2 style="background-color:rgb(255, 99, 71);>This is what i am</H2>
+<H2 style="background-color:white;">This is what i am</H2>
 
 <HR>
 
